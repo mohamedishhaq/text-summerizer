@@ -1,0 +1,1 @@
+I gained experience in providing input and obtaining responses from the Gemini model. I also experimented with other models, though they did not perform as effectively. Additionally, I studied tokenization in GPT-2 and BART, which gave me a solid understanding of how tokens function. Throughout this process, I utilized AI tools to support my learning.
