@@ -1,0 +1,5 @@
+google-genai
+transformers
+torch
+langdetect
+textblob
